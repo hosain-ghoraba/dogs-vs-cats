@@ -3,5 +3,5 @@
 **/data/
 **/clean_data/
 /env
-# *.keras
+*.keras
 /data_is_clean.txt
