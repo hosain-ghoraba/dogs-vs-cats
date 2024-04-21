@@ -3,4 +3,5 @@
 **/data/
 **/clean_data/
 /env
+/venv
 *.keras
