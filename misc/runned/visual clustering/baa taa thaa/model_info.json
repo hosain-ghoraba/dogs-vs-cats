@@ -1,0 +1,10 @@
+{
+    "index_to_label": {
+        "0": "ب",
+        "1": "ت",
+        "2": "ث"
+    },
+    "model_name": "model_5616_images_img_size_128.keras",
+    "image_size": 128,
+    "used_dataset": "/kaggle/input/1800-baa-taa-thaa"
+}
