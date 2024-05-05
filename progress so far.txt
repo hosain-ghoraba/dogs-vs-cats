@@ -23,6 +23,8 @@ clean-1800-letters-only		0.156000  0.404000   0.465000	0.842000  0.060000    0.0
 clean-2500-letters-only		0.992000		0.988000
 clean-1800-letters-only		0.783000		0.843000
 
+7 - tried to train the 1800 128 dataset (but with clustering this time), with k = 4 , but I ran out of RAM memory , so I tried to manually free some unused variables to free the memory at some points, but it did not work because I could not force the python memory manager to delete the variables from the memory, and now I am stuck !!
+
 
 
 
